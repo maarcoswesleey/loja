@@ -422,7 +422,7 @@ ol {
 .header__menu ul li {
 	list-style: none;
 	display: inline-block;
-	margin-right: 40px;
+	margin-right: 35px;
 	position: relative;
 }
 
@@ -731,6 +731,7 @@ ol {
 	display: flex;
 	align-items: center;
 	padding-left: 75px;
+	
 }
 
 .hero__text span {
@@ -743,7 +744,7 @@ ol {
 
 .hero__text h2 {
 	font-size: 46px;
-	color: #252525;
+	color: #032a38;
 	line-height: 52px;
 	font-weight: 700;
 	margin: 10px 0;
@@ -1787,6 +1788,7 @@ ol {
 	border: none;
 	background: #f5f5f5;
 	text-align: center;
+	
 }
 
 .pro-qty .qtybtn {
@@ -1912,7 +1914,7 @@ ol {
 }
 
 .shoping__cart__table table tbody tr td.shoping__cart__item {
-	width: 630px;
+	width: 530px;
 	text-align: left;
 }
 
@@ -2124,7 +2126,7 @@ ol {
 	border: 1px solid #ebebeb;
 	padding-left: 20px;
 	font-size: 16px;
-	color: #b2b2b2;
+	color: #636363;
 	border-radius: 4px;
 }
 
@@ -3408,6 +3410,7 @@ ol {
 	}
 	.header__menu {
 		display: none;
+
 	}
 	.header__cart {
 		text-align: center;
@@ -3465,5 +3468,44 @@ ol {
 	.blog__details__hero__text h2 {
 		font-size: 24px;
 	}
+}
+
+.promocao h4{
+	text-align: center;
+	font-size:40px;
+}
+
+
+
+
+
+.pro-qty2 {
+	width: 140px;
+	height: 50px;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	background: #f5f5f5;
+	margin-bottom: 5px;
+}
+
+.pro-qty2 input {
+	height: 100%;
+	width: 100%;
+	font-size: 16px;
+	color: #6f6f6f;
+	width: 50px;
+	border: none;
+	background: #f5f5f5;
+	text-align: center;
+	
+}
+
+.pro-qty2 .qtybtn2 {
+	width: 35px;
+	font-size: 16px;
+	color: #6f6f6f;
+	cursor: pointer;
+	display: inline-block;
 }
 
